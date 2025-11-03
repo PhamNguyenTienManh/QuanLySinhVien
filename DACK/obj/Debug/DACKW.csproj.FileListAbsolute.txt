@@ -1,0 +1,1644 @@
+C:\hk2-nam2\windows\DACKW\bin\Debug\DACKW.exe.config
+C:\hk2-nam2\windows\DACKW\bin\Debug\DACKW.exe
+C:\hk2-nam2\windows\DACKW\bin\Debug\DACKW.pdb
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.exe
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.pdb
+C:\hk2-nam2\windows\DACKW\bin\Debug\Guna.UI2.dll
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.RegisterForm.resources
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.LoginForm.resources
+C:\hk2-nam2\windows\DACKW\bin\Debug\Emgu.CV.UI.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\Emgu.CV.World.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\OpenTK.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\OpenTK.GLControl.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\ZedGraph.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\Emgu.CV.UI.xml
+C:\hk2-nam2\windows\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+C:\hk2-nam2\windows\DACKW\bin\Debug\Emgu.CV.World.xml
+C:\hk2-nam2\windows\DACKW\bin\Debug\OpenTK.xml
+C:\hk2-nam2\windows\DACKW\bin\Debug\OpenTK.GLControl.xml
+C:\hk2-nam2\windows\DACKW\bin\Debug\ZedGraph.xml
+C:\hk2-nam2\windows\DACKW\bin\Debug\de\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\es\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\it\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\hk2-nam2\windows\DACKW\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.exe
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.pdb
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\DACKW.exe.config
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\DACKW.exe
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\DACKW.pdb
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\Guna.UI2.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\OpenTK.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\ZedGraph.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\OpenTK.xml
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\ZedGraph.xml
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.account.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.UserControl1.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\HK2\Lap trinh window\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+D:\dowloadD\DACKW\DACKW\bin\Debug\DACKW.exe.config
+D:\dowloadD\DACKW\DACKW\bin\Debug\DACKW.exe
+D:\dowloadD\DACKW\DACKW\bin\Debug\DACKW.pdb
+D:\dowloadD\DACKW\DACKW\bin\Debug\Emgu.CV.UI.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\Emgu.CV.World.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\Guna.UI2.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\OpenTK.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\OpenTK.GLControl.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\ZedGraph.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\Emgu.CV.UI.xml
+D:\dowloadD\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+D:\dowloadD\DACKW\DACKW\bin\Debug\Emgu.CV.World.xml
+D:\dowloadD\DACKW\DACKW\bin\Debug\OpenTK.xml
+D:\dowloadD\DACKW\DACKW\bin\Debug\OpenTK.GLControl.xml
+D:\dowloadD\DACKW\DACKW\bin\Debug\ZedGraph.xml
+D:\dowloadD\DACKW\DACKW\bin\Debug\de\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\es\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\it\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.CourseForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.FaceDetect.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.FaceLogin.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.LoginForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.NotifyForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.RegisterForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.TeacherForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.UserControl1.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.exe
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.pdb
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.AdminForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.StudentButtonForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.GiaoVienButtonForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.CourseButtonForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.AccountButtonForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.accountStudent.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.StudentListButtonForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.EditRemoveBtnForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.AddTeacherAccountForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+D:\dowloadD\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe.config
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\DACKW.pdb
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\OpenTK.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\OpenTK.xml
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.xml
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControl1.resources
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.exe
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.pdb
+C:\Users\Dell\Downloads\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe.config
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\DACKW.pdb
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\Guna.UI2.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\OpenTK.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.xml
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.xml
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\OpenTK.xml
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.xml
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.xml
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\de\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\es\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\it\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.AddTeacherAccountForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AccountButtonForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.AdminForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.CourseButtonForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiaoVienButtonForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentButtonForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentListButtonForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.accountStudent.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.CourseForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceDetect.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceLogin.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.LoginForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.NotifyForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.RegisterForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.TeacherForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControl1.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.exe
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.pdb
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+D:\hk2-nam2\windows\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe.config
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.pdb
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Guna.UI2.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.xml
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.xml
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AdminForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.accountStudent.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.exe
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.pdb
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlCourse.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Nam 2\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe.config
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe.config
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.pdb
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Guna.UI2.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.xml
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.xml
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AdminForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.accountStudent.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlCourse.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.exe
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.pdb
+C:\Nam 2\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe.config
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ZedGraph.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW 30_4\DACKW 24_4\DACKW\DACKW\DACKW\obj\Debug\DACKW.pdb
+C:\Nam 2\DACKW2-5\bin\Debug\DACKW.exe.config
+C:\Nam 2\DACKW2-5\bin\Debug\DACKW.exe
+C:\Nam 2\DACKW2-5\bin\Debug\DACKW.pdb
+C:\Nam 2\DACKW2-5\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Guna.UI2.dll
+C:\Nam 2\DACKW2-5\bin\Debug\OpenTK.dll
+C:\Nam 2\DACKW2-5\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\DACKW2-5\bin\Debug\ZedGraph.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\DACKW2-5\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\DACKW2-5\bin\Debug\OpenTK.xml
+C:\Nam 2\DACKW2-5\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\DACKW2-5\bin\Debug\ZedGraph.xml
+C:\Nam 2\DACKW2-5\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.AdminForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.accountStudent.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.UserControlCourse.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.exe
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.pdb
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.ForumUserControl.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.ForumForm.resources
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Auth.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Core.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Newtonsoft.Json.dll
+C:\Nam 2\DACKW2-5\bin\Debug\System.CodeDom.dll
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.pdb
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.xml
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Auth.pdb
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Auth.xml
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Core.pdb
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Core.xml
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Nam 2\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Nam 2\DACKW2-5\bin\Debug\Newtonsoft.Json.xml
+C:\Nam 2\DACKW2-5\bin\Debug\System.CodeDom.xml
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Nam 2\DACKW2-5\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\DACKW.exe.config
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\System.CodeDom.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\ZedGraph.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\System.CodeDom.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\ZedGraph.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForumUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForumForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5\DACKW2-5\obj\Debug\DACKW.pdb
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\DACKW.exe.config
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\DACKW.exe
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\DACKW.pdb
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Guna.UI2.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Newtonsoft.Json.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\System.CodeDom.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ZedGraph.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.pdb
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.pdb
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.pdb
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Newtonsoft.Json.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\System.CodeDom.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ZedGraph.xml
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.AdminForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForumUserControl.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForumForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.accountStudent.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlCourse.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.exe
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.pdb
+C:\Nam 2\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\DACKW.exe.config
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\System.CodeDom.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ZedGraph.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Core.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\System.CodeDom.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ZedGraph.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForumUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForumForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Student.FormNopBai.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.FormListSV.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.StudentInfo.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW4-5(1)\DACKW4-5\DACKW4-5\DACKW2-5\obj\Debug\DACKW.Teacher.UserControlStudentAssignment.resources
+C:\Nam 2\DACKW6-5\bin\Debug\DACKW.exe.config
+C:\Nam 2\DACKW6-5\bin\Debug\DACKW.exe
+C:\Nam 2\DACKW6-5\bin\Debug\DACKW.pdb
+C:\Nam 2\DACKW6-5\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Auth.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Core.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Guna.UI2.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Newtonsoft.Json.dll
+C:\Nam 2\DACKW6-5\bin\Debug\OpenTK.dll
+C:\Nam 2\DACKW6-5\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\DACKW6-5\bin\Debug\System.CodeDom.dll
+C:\Nam 2\DACKW6-5\bin\Debug\ZedGraph.dll
+C:\Nam 2\DACKW6-5\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\DACKW6-5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\DACKW6-5\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.pdb
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.xml
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Auth.pdb
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Auth.xml
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Core.pdb
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Core.xml
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Nam 2\DACKW6-5\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Nam 2\DACKW6-5\bin\Debug\Newtonsoft.Json.xml
+C:\Nam 2\DACKW6-5\bin\Debug\OpenTK.xml
+C:\Nam 2\DACKW6-5\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\DACKW6-5\bin\Debug\System.CodeDom.xml
+C:\Nam 2\DACKW6-5\bin\Debug\ZedGraph.xml
+C:\Nam 2\DACKW6-5\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.AdminForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.FormListSV.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.ForumTeacherUserControl.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.ForumUserControl.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Student.FormNopBai.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.ForumForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.accountStudent.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.StudentInfo.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.Teacher.UserControlStudentAssignment.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.UserControlCourse.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.exe
+C:\Nam 2\DACKW6-5\obj\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\DACKW.exe.config
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Core.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\OpenTK.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\System.CodeDom.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\ZedGraph.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Core.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\OpenTK.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\System.CodeDom.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\ZedGraph.xml
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.FormListSV.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.ForumTeacherUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.ForumUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Student.FormNopBai.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.ForumForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.StudentInfo.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Teacher.UserControlStudentAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.UserControlCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKW6-5\obj\Debug\DACKW.Student.StudentCourseScoreForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.FormListSV.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.ForumTeacherUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.ForumUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.studentScoreForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Student.FormNopBai.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Student.StudentCourseScoreForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.ForumForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.StudentInfo.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.Teacher.UserControlStudentAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.UserControlCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\DACKW.exe.config
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Core.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\OpenTK.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\System.CodeDom.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\ZedGraph.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.pdb
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Core.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\OpenTK.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\System.CodeDom.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\ZedGraph.xml
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACK\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\DACKW.exe.config
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\DACKW.exe
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\DACKW.pdb
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Guna.UI2.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Newtonsoft.Json.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\OpenTK.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\System.CodeDom.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\ZedGraph.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.pdb
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.pdb
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.pdb
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\Newtonsoft.Json.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\OpenTK.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\System.CodeDom.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\ZedGraph.xml
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.PrintResultBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.AdminForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.FormListSV.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.ForumTeacherUserControl.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.ForumUserControl.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.studentScoreForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Student.FormNopBai.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Student.StudentCourseScoreForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.ForumForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.accountStudent.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.StudentInfo.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UserControlStudentAssignment.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlCourse.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.exe
+C:\Nam 2\DACKmoinhat\DACK\obj\Debug\DACKW.pdb
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\itextsharp.dll
+C:\Nam 2\DACKmoinhat\DACK\bin\Debug\itextsharp.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\DACKW.exe.config
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.World.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\itextsharp.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\System.CodeDom.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ZedGraph.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.World.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\itextsharp.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\System.CodeDom.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ZedGraph.xml
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.AdminForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.FormListSV.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForumTeacherUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForumUserControl.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.studentScoreForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.FormNopBai.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.StudentCourseScoreForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForumForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.accountStudent.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.CourseForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.FaceDetect.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.FaceLogin.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.LoginForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.NotifyForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.RegisterForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.StudentMainForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.StudentInfo.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.TeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UserControlStudentAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.exe
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.pdb
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserFace.resources
+C:\Users\Dell\OneDrive\Desktop\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.PrintStdResult.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\DACKW.exe.config
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\DACKW.exe
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\DACKW.pdb
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.World.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Guna.UI2.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\itextsharp.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Newtonsoft.Json.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.GLControl.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\System.CodeDom.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ZedGraph.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Emgu.CV.World.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.pdb
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.pdb
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Auth.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.pdb
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Core.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\itextsharp.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\Newtonsoft.Json.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\OpenTK.GLControl.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\System.CodeDom.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ZedGraph.xml
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\de\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\es\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\fr\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\hu\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\it\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ja\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\pt\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\ru\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\sk\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\sv\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\tr\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.AssemblyReference.cache
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.accountButtons.ListAccountBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.accountButtons.WaitingAccount.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.AddNewCourseBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.CourseListBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.courseButtons.EditCourseBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.AddScoreBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.AvgScoreBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.PrintStdResult.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.scoreButtons.StaticScoreBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.studentButtons.EditRemoveBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.AddTeacherAccountForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.AccountButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.AddStudentAccountForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.AdminForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.CourseButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.CourseTeacherBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.EditTeacherBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.GiaoVienButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.ScoreButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.admin.teacherButtons.ListTeacherBtnForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.FormListSV.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForumTeacherUserControl.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForumUserControl.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.studentScoreForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.FormNopBai.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.StudentCourseScoreForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.accountTeacher.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.KhoaHocGiaoVien.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForumForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.AccessCourseForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Student.UpdatePasswordForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.CourseTeacherBtn.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.GiveNoticeToStdForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.StudentButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.StudentListButtonForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.accountStudent.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.CourseForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.FaceDetect.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.FaceLogin.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.ForgetPasswordForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.LoginForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.NotifyForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Properties.Resources.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.RegisterForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.StudentMainForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.StudentInfo.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.StudentRegisterCourseForrm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.TeacherForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UpdateInfoForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.ThemBaiTapBtn.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.TruyCapKhoaHoc.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UpdateInfoTeacherform.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UpdatePasswordTeacherForm.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.Teacher.UserControlStudentAssignment.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlAssignment.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlBaiTapDaDang.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlCourse.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserControlRegisteredCourse.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.UserFace.resources
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.GenerateResource.cache
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.CoreCompileInputs.cache
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.csproj.CopyComplete
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.exe
+C:\Nam 2\DACKmoinhat\DACKmoinhat\DACKmoinhat\DACK\obj\Debug\DACKW.pdb
